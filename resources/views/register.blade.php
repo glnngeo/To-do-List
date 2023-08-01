@@ -40,7 +40,8 @@
 
 
   <!-- Submit button -->
-  <button type="button" class="btn btn-primary btn-block mb-4">Sign in</button>
+  <a class="btn btn-primary" href="/home" role="button">Sign in</a>
+
 
   <!-- Register buttons -->
   <div class="text-center">
